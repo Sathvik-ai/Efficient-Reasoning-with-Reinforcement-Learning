@@ -1,6 +1,5 @@
-Here’s a clean, research-style **README.md** you can directly upload to GitHub.
 
----
+
 
 # Efficient Reasoning with Reinforcement Learning
 
