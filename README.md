@@ -152,8 +152,4 @@ This project demonstrates that reasoning efficiency can be improved through ligh
 
 Inspired by recent work on efficient reasoning, RL for LLMs, and chain-of-thought optimization.
 
----
 
-
-* Or a more industry-facing version
-* Or one optimized specifically for recruiters browsing GitHub
